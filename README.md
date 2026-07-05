@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PlaywrightAutomation
 
 Playwright-based UI/API automation framework.
@@ -38,3 +39,7 @@ Notes:
 - The helper script will attempt to create the remote repo using `gh` and push the `main` branch.
 - You must authenticate locally (via `gh auth login` or provide credentials for HTTPS pushes).
 
+=======
+# PLAYWRIGHTAUTOMATION
+playwright automation for api and web
+>>>>>>> b4968980a58062c4cde50bc261f72e41040887a7
